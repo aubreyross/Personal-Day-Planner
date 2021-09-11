@@ -28,3 +28,6 @@
 ## Links 
 * https://github.com/aubreyross/Personal-Day-Planner.git
 * https://aubreyross.github.io/Personal-Day-Planner/
+
+##Preview
+![Scheduler](https://user-images.githubusercontent.com/87405979/132961678-e5dd6e4a-0190-4960-9e4a-94f6f0ca4cb1.png)
