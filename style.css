@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family:'Source Sans Pro', sans-serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -15,11 +15,24 @@ textarea {
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
   color: black;
+  font-family:'Source Sans Pro', sans-serif;
+  font-size: 55px;
+  font-weight: 600;
   border-radius: 0;
   border-bottom: 10px solid black;
+  background-image:url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
+  background-attachment: fixed;
 }
+
+.lead {
+  padding-top: 10px;
+  text-align: center;
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+}
+
 
 .description {
   white-space: pre-wrap;
@@ -48,12 +61,12 @@ textarea {
 }
 
 .present {
-  background-color: #ff6961;
+  background-color:lightblue;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: darkblue;
   color: white;
 }
 

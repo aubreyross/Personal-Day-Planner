@@ -19,7 +19,8 @@ $(document).ready(function () {
     });
 
     
-   //In HTML each row was given an ID that represented the hour. This function compares the schedule hour to the current hour to determine past, present, or future.
+   //In HTML each row was given an ID that represented the hour. This function compares the row hour to the current hour to determine past, present, or future.
+   //Grey is past, light blue is present, dark blue is future
     function colorBlock() {
         var currentHour = moment().hour();
 
